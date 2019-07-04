@@ -13,15 +13,25 @@ Most people leave on Friday during the work day. You should come to every meet-u
 
 [Here are some tips from Basecamp teammates about Meetups](https://3.basecamp.com/2914079/buckets/34/messages/185772672)
 
-## Wooden Spheres Of Recognition
-One of the sessions that we do schedule every meet-up is the recognition awards presentation. It's a favorite among employees. A few months before a meet-up, Andrea asks for nominations for Basecampers who have gone above and beyond their job duties to make Basecamp a better place to work. Nominations range from professional excellence, like when Sam got an award for his work on Pow, to the personal, like when Jamie got an award for being Basecamp's heart and soul. About 5 people get an award each meet-up, and the person(s) who nominated the award winner does the presenting at the meet-up. We have a woodturner who's created our wooden sphere awards since 2011; they're all handmade from salvaged wood from Arizona and New Mexico, and each meet-up features a different wood. We also give spheres made of ironwood when an employee reaches 5, 10, 15 years at Basecamp. A list of past recipients is in [Basecamp](https://3.basecamp.com/2914079/buckets/34/documents/16145).
+## Mini Meetups
+Once a year, you can get together with a small group of your coworkers on a mini meet-up at a destination of your choosing. Mini meet-ups should have a work focus. They're not meant to be social trips, and you're not doing just your day-to-day work in the same room as your coworkers. You should be collaborating on something meaningful. It certainly doesn't have to be big and you don't have to produce something by the end of the meet-up. Pick something you'd love to have a week to discuss in person and have fun with it.
+
+Keep in mind: your mini-meet-up team does not have to be your formal team like Ops, Support, Mobile, etc. Colleagues who are working cross-team who have a project to get together on can meet-up too! Limit yourself to 1 mini-meet-up per year though, whether that's with your dedicated team or with an offshoot team.
+
+Budget guidelines for mini meet-ups can be found [in Basecamp.](https://3.basecamp.com/2914079/buckets/34/messages/1400415368#__recording_1400437120)
+
+## Peer Recognition 
+One of the sessions that we do schedule every meet-up is the recognition celebration. A few months before a meet-up, Andrea asks everyone to think about their colleagues who have made Basecamp a better place to work. Ideas range from professional excellence, like when Sam got recognized for his work on Pow, to the personal, like when Jamie got a nod for being Basecamp's heart and soul. At the meet-up, we set aside an hour for everyone to stand up and speak to their colleagues' accomplishments or general awesomeness over the previous 6 months. At this time we also give awards to employees on their 5, 10, 15 year anniversaries at Basecamp.
 
 ## Everyone On Support (EOS)
 Once every month or two, everyone in the company is called upon to do a Support shift. We call it Everyone on Support (EOS). Talking directly to customers all day helps us realize what's wrong, what's right, and what's utterly confusing about Basecamp. For the first few times you do EOS, you'll have a Support buddy to help you write clear and correct answers to customer questions through Help Scout, our support response tool, but then you're on your own! But don't worry - Team OMG is always there to help you out.
 
 ## 5x12s
-Every month, Andrea randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work. 
+Every month, Navid randomly selects 5 people to chat on a call with Jason and David. The call has no agenda nor is there any preparation needed (besides putting on pants — please put on pants). The participants join a Google Hangout and chat about anything other than work. 
 
-Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Noah’s intense longing for a dog, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Andrea transcribes the call and posts the transcription in Basecamp for everyone to read afterwards.
+Some interesting topics that have been covered in the past: Jamie’s $1,000 toilet, Wailin’s Ted Cruz sighting, and petty juvenile delinquency stories from an alarming number of employees. 5x12s happen on the first Wednesday of every month at 10AM Chicago time. Navid transcribes the call and posts the transcription in Basecamp for everyone to read afterwards.
 
 We have a strict policy of not sharing anything that’s said in a 5x12 in a public forum, so you can talk freely. These calls are supposed to be fun, so please try to have a good time with them!
+
+## The Small Council 
+Basecamp has an executive advisory team that meets with Jason and David every few months called The Small Council. It's made up of department heads who have been with the company for over 5 years. Currently the council is made up of Kristin Aardsma (Customer Support), Jeremy Daer (SIP), Jonas Downey (Design), Jeff Hardy (Core Programming), Matthew Kent (Ops), and Andrea LaRowe (People Ops). The Small Council talk through high-level issues facing the company, its employees, and its customers. Each member is expected to represent their respective areas so Jason and David have a comprehensive view of how big decisions will affect different aspects of Basecamp.
